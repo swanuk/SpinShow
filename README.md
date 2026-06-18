@@ -1,29 +1,29 @@
 # SpinShow
 
-SpinShow — программа для стримеров с колесом фильмов и барабаном розыгрышей.
+SpinShow is a program for streamers with a movie wheel and a giveaway wheel.
 
-## Возможности
+## Features
 
-- Колесо фильмов
-- Барабан розыгрышей
-- Добавление списка фильмов
-- Открытие сохранённого списка
-- Звуки прокрутки
-- Рейтинги фильмов
-- Подготовка к Twitch Channel Points
+- Movie wheel
+- Giveaway wheel
+- Adding a movie list
+- Opening a saved list
+- Scrolling sounds
+- Movie ratings
+- Preparing for Twitch Channel Points
 
-## Скачать
+## Download
 
-Последняя версия будет доступна здесь:
+The latest version will be available here:
 
 https://github.com/swanuk/SpinShow/releases/latest
 
-## Установка
+## Installation
 
-1. Скачайте `SpinShow-Portable-v1.0.0.zip`
-2. Распакуйте архив
-3. Запустите `SpinShow.exe`
+1. Download `SpinShow-Portable-v1.0.0.zip`
+2. Unzip the archive
+3. Run `SpinShow.exe`
 
-## Статус
+## Status
 
 Beta version.
