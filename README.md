@@ -20,7 +20,7 @@ https://github.com/swanuk/SpinShow/releases/latest
 
 ## Installation
 
-1. Download `SpinShow-Portable-v1.0.0.zip`
+1. Download `SpinShow-Portable-vХ.ХХ.Х.zip`
 2. Unzip the archive
 3. Run `SpinShow.exe`
 
